@@ -74,6 +74,7 @@ Square(side=4)
 ```
 
 ### Development
+
 Write your code in `shape_calculator.py`. For development, you can use `main.py` to test your `shape_calculator()` function.
 Click the "run" button and `main.py` will run.
 
